@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      手把手教你搭建自己的个人网站
-subtitle:   基于WordPress的个人网站
+subtitle:   基于WordPress的个人网站（ 之前折腾好几天都失败了 有空再用hexo重做一遍好了）
 date:       2018-06-07
 author:     lj
 header-img: "img/post-bg-2018.jpg"
