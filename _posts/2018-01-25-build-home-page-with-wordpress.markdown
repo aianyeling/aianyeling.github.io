@@ -2,8 +2,8 @@
 layout:     post
 title:      手把手教你搭建自己的个人网站
 subtitle:   基于WordPress的个人网站
-date:       2018-01-25
-author:     flyzy
+date:       2018-06-07
+author:     lj
 header-img: "img/post-bg-2018.jpg"
 tags:
     - 建站
@@ -175,5 +175,3 @@ chown -R www-data:www-data /var/www/html
 
 至此，一个基于WordPress的个人博客就已经搭建完毕了~是不是很简单很方便？
 
-更多教程修改WordPress主题，网站升级HTTPS，WordPress搬家&备份等等，请访问原文地址：
-[手把手教你搭建自己的个人网站](https://www.flyzy2005.cn/build-page)
